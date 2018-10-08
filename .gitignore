@@ -1,0 +1,6 @@
+vendor/
+bin/
+composer.phar
+composer.lock
+kata.sublime-project
+kata.sublime-workspace

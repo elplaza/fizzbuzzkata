@@ -1,0 +1,22 @@
+# The FizzBuzz Kata 
+
+## What's the FizzBuzz Kata?
+Write a program that prints the numbers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz?".
+
+Improvements:
+- A number is fizz if it is divisible by 3 or if it has a 3 in it
+- A number is buzz if it is divisible by 5 or if it has a 5 in it
+
+Link: [Coding Dojo](http://codingdojo.org/kata/FizzBuzz/)
+
+## Setup
+Install dependencies:
+``composer install``
+
+## Run tests
+Run test suite:
+``./bin/phpunit``
+
+## Run kata
+``php kata.php`` 
+
